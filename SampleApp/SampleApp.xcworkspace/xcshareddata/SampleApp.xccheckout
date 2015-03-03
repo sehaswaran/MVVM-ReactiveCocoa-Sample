@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B81A5201-4C3A-4042-9267-A8E6FC323B44</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4CA103A02FF80D748F1397A3305CF6B1BA34CB25</key>
+		<string>https://github.com/InfiniteLoopDK/ILGeoNames.git</string>
+		<key>EF4B92058C4665C22665ED307AA78E46C2440704</key>
+		<string>https://github.com/ColinEberhardt/CETableViewBinding.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleApp/SampleApp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4CA103A02FF80D748F1397A3305CF6B1BA34CB25</key>
+		<string>../..</string>
+		<key>EF4B92058C4665C22665ED307AA78E46C2440704</key>
+		<string>../../SampleApp/CETableViewBinding</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/InfiniteLoopDK/ILGeoNames.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4CA103A02FF80D748F1397A3305CF6B1BA34CB25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF4B92058C4665C22665ED307AA78E46C2440704</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CETableViewBinding</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4CA103A02FF80D748F1397A3305CF6B1BA34CB25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ILGeoNames</string>
+		</dict>
+	</array>
+</dict>
+</plist>

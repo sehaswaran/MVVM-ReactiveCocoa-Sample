@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'SampleApp' target in the 'SampleApp' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <ReactiveCocoa/ReactiveCocoa.h>
+#endif
